@@ -1,0 +1,40 @@
+.list-item {
+  display: flex;
+  flex-direction: row;
+  margin: 10px;
+  justify-content: space-between;
+}
+.lis {
+  display: flex;
+  flex-direction: row;
+}
+.time {
+  font-size: 20px;
+  font-family: 'Roboto';
+  color: #475569;
+}
+.logo {
+  height: 25px;
+  margin-top: 20px;
+  margin-left: 40px;
+  margin-right: 20px;
+}
+.title {
+  font-size: 15px;
+  font-family: 'Roboto';
+  margin-top: 20px;
+  color: #000000;
+  margin-left: 20px;
+}
+.domain-url {
+  color: #64748b;
+  font-family: 'Roboto';
+  font-size: 15px;
+  margin-left: 20px;
+  margin-top: 25px;
+}
+
+.delete-icon {
+  height: 40px;
+  align-self: flex-end;
+}
